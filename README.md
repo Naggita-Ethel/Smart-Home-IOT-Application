@@ -17,5 +17,30 @@ Ideas screen
 
 Settings screen
 ![image](https://github.com/Naggita-Ethel/Smart-Home-IOT-Application/assets/108078337/a99a478b-2a0d-443f-9342-e11325381800)
+## Features
+* Manage and control smart home devices from a single app.
+* Add routines, events, and actions to automate your home.
+* Responsive UI for seamless navigation across screens.
+* Native Android development for optimal performance.
+
+## Technologies Used
+* Android Studio
+* Java (or Kotlin, if applicable)
+* Native Android APIs
+
+## Getting Started
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Build and run the application on an emulator or physical device.
+
+## Screens Overview
+* **Favorites:** Quick access to preferred devices and actions.
+* **Things:** Manage all connected devices in your smart home.
+* **Routines:** Create and edit automation routines.
+* **Ideas:** Explore suggestions for smart home automation.
+* **Settings:** Configure app preferences and device integrations.
+
+## License
+This project is licensed under the MIT License.
 
 
